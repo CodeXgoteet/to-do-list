@@ -42,7 +42,10 @@ How It Works
 The application uses a SQLite database (listOfTasks.db) to store tasks persistently.
 Tasks are displayed in a Tkinter Listbox, and the interface includes buttons for interacting with tasks.
 
-Screenshots
+## Screenshots
 
 ![Screenshot 2025-01-16 145641](https://github.com/user-attachments/assets/aa407226-b538-4702-800e-a8c407e911ce)
 ![Screenshot 2025-01-16 145448](https://github.com/user-attachments/assets/9979a8d2-072f-425d-8d23-cbc87e9baa43)
+
+## License
+This project is open-source and available under the MIT License.
