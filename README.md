@@ -1,4 +1,4 @@
-# to-do-list
+# To-do-list
 # To-Do List Application
 
 This is a simple **To-Do List Application** built using Python and the Tkinter library for the GUI. It allows users to add, delete, and manage tasks effectively. The tasks are saved in a SQLite database for persistence.
